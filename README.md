@@ -6,4 +6,4 @@
 
 Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 --- | --- | --- | ---
-*05/09/1990* | *purple* | *roasted chicken* | <input type="checkbox">
+*05/09/1990* | *purple* | *roasted chicken* | ❌
