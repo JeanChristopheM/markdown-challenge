@@ -15,8 +15,8 @@ Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 ### Hobbies
 
 * Coding
-⋅⋅* Javascript
-⋅⋅* Html
-⋅⋅* Css
+  * Javascript
+  * Html
+  * Css
 * Gaming
 * Gardening
