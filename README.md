@@ -4,7 +4,6 @@
 
 ## Me, in one sentence
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
+--- | --- | --- | ---
+*05/09/1990* | *purple* | *roasted chicken* | <input type="checkbox">
