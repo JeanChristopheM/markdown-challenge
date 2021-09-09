@@ -1,11 +1,16 @@
 # Molhant Jean-Christophe
 
 > *Be yourself; everyone else is already taken.*
-##### Oscar Wilde
-
-## Me, in one sentence
+#####    - Oscar Wilde
 
 ***
+
+My face : 
+![alt text](profilePic.png "Logo Title Text 1")
+
+***
+
+## Me, in one sentence
 
 Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 --- | --- | --- | ---
@@ -25,7 +30,7 @@ Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 
 ***
 
-### You can always count on me when
+## You can always count on me when
 
 If you have general computer issues on a windows machine I can help !
 
@@ -36,7 +41,7 @@ In any case, don't hesitate to reach out 😉.
 
 ***
 
-### A funny story
+## A funny story
 
 One day I was sleeping in a caravan in the garden and I decided to fall asleep with some music on Youtube.
 
