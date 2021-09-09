@@ -14,7 +14,7 @@ My face :
 
 Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 --- | --- | --- | ---
-*05/09/1990* | *purple* | *roasted chicken* | ❌ never
+*05/09/1990* | *purple* | *roasted chicken* | ❌ **never**
 
 ***
 
