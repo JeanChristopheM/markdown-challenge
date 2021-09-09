@@ -27,7 +27,9 @@ Birthday | Favorite Color | Favorite Food | Pinneapple on pizza ?
 ### You can always count on me when
 
 If you have general computer issues on a windows machine I can help !
+
 Also if you have trouble with English to French or French to English translations, I will gladly give you a hand.
+
 When it comes to coding I usually have a strong logic so maybe I can help with that too ?
 In any case, don't hesitate to reach out 😉.
 
@@ -36,9 +38,13 @@ In any case, don't hesitate to reach out 😉.
 ### A funny story
 
 One day I was sleeping in a caravan in the garden and I decided to fall asleep with some music on Youtube.
+
 Unfortunately my phone had enough battery to last all night and kept on going through the Youtube algorithm the whole night.
+
 I eventually woke up around 5am to what sounded like a team of people fighting and yelling in some foreign language.
+
 The stress rose quickly and I jumped out of my bed to investigate !
+
 As soon as I walk out the caravan door, my feet slide on the frozen water on the ground (winter can be rough) and I literally flip up and fall flat on the ground with my head hitting it relatively hard.
 
 I later realized it was my phone displaying a football match in arabic language...
